@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Django**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Taleys](https://github.com/Taleys)
+- 👨‍💻 All of my projects are available at [https://github.com/Caferlyy]([https://github.com/Taleys](https://github.com/Caferlyy))
 
 - 💬 Ask me about **Sourcepawn,C#,C++**
 
