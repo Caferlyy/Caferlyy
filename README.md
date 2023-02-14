@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on [Hovn](Hovn.com)
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Ruby**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Caferlyy]([https://github.com/Taleys](https://github.com/Caferlyy))
 
-- 💬 Ask me about **Sourcepawn,C#,C++**
+- 💬 Ask me about **Sourcepawn,C#,C++,Django,Python**
 
 - 📫 How to reach me **caferlyss@gmail.com**
 
