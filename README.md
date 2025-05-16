@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=caferly" alt="caferly" /></a> </p>
 
-- 🔭 I’m currently working on [Hovn](Hovn.com)
+- 🔭 I’m currently working on [Hovnect](hovnect.com)
 
 - 🌱 I’m currently learning **Ruby**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Caferlyy]([https://github.com/Taleys](https://github.com/Caferlyy))
 
-- 💬 Ask me about **Sourcepawn,C#,C++,Django,Python**
+- 💬 Ask me about **Sourcepawn,C#,C++,Django,Python,Javascript**
 
 - 📫 How to reach me **caferlyss@gmail.com**
 
